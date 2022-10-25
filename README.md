@@ -1,5 +1,16 @@
 # Forecasting & Revenue
-Regression Model
+1. Time Series Model
+    1. Last value
+    2. Simple average
+    3. Moving average
+    4. Weighted moving average
+    5. Exponetional smoothing
+    6. Incorporated Seasonality
+    7. Incorporated Trend
+    8. ARIMA
+
+
+2. Regression Model
 - Package
     1. Pandas(Vector Arithmetics)
 
